@@ -8,7 +8,7 @@ Welcome to my official software engineering portfolio repository. This project i
 Name: Pottolla Kanchana
 Title: Computer Science Engineering Student & Full-Stack Developer
 Location: Madanapalle, Andhra Pradesh, India
-Contact: kanchana.infotech99@gmail.com | +91 9492464643
+Contact: kanchana.infotech99@gmail.com | +91 8328187221
 Profiles: LinkedIn | GitHub
 I am an engineering student passionate about building clean web applications, designing responsive user interfaces, and exploring advanced computing models. My technical background highlights a strong foundation in Web Systems, Artificial Intelligence, Machine Learning pipelines, and Cloud Infrastructures.
 
